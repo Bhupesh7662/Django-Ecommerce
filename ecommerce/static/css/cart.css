@@ -1,0 +1,11 @@
+.cart_table {
+  min-width: 400px;
+  font-size: 14px;
+}
+
+.cart_thead {
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  background-color: #f8f9fa !important;
+}
